@@ -19,14 +19,12 @@ Hey! I’m **Paras**, a 2nd year **B.Tech IT** student at **Galgotias College of
 
 ### 💻 Languages
 `C` · `C++` · `Python` · `Java` · `JavaScript` · `SQL`
-
 ### 🌐 Web Development
 `HTML5` · `CSS3` · `Bootstrap` · `PHP` + `MySQL`  
-🧱 Learning: `React` · `Node.js` · `Express`
 
+🧱 Learning: `React` · `Node.js` · `Express`
 ### 🛠 Tools & Workflow
 `Git` · `GitHub` · `VS Code` · `Linux Terminal` · `Postman`  
-
 ### 🧠 CS Fundamentals
 - Data Structures & Algorithms
 - DBMS, OS, Computer Networks
@@ -34,7 +32,7 @@ Hey! I’m **Paras**, a 2nd year **B.Tech IT** student at **Galgotias College of
 
 ---
 
-## 🚀 What I’m Currently Focused On
+### 🚀 What I’m Currently Focused On
 
 - 📌 Strengthening **DSA** with consistent practice and pattern recognition  
 - 📌 Building **full‑stack projects** instead of just tutorial apps  
@@ -51,15 +49,6 @@ Hey! I’m **Paras**, a 2nd year **B.Tech IT** student at **Galgotias College of
 - Implements login, accounts and basic transactions  
 - Focus on **secure backend logic** and proper database design  
 - Helped me understand full request → DB → response flow
-
----
-
-## 📊 GitHub Snapshot
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ParasJain02&show_icons=true&theme=tokyonight" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParasJain02&layout=compact&theme=tokyonight" alt="langs" />
-</p>
 
 ---
 
