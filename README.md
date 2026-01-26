@@ -18,17 +18,10 @@ Hey! I’m **Paras**, a 2nd year **B.Tech IT** student at **Galgotias College of
 ## 🧰 Tech Toolbox
 
 ### 💻 Languages
-`C` · `C++` · `Python` · `Java` · `JavaScript` · `SQL`
-### 🌐 Web Development
-`HTML5` · `CSS3` · `Bootstrap` · `PHP` + `MySQL`  
-
+`C` · `C++` · `Python` · `Java` . `HTML5` · `CSS3` · `Bootstrap` · `PHP` . `MySQL`  
 🧱 Learning: `React` · `Node.js` · `Express`
 ### 🛠 Tools & Workflow
 `Git` · `GitHub` · `VS Code` · `Linux Terminal` · `Postman`  
-### 🧠 CS Fundamentals
-- Data Structures & Algorithms
-- DBMS, OS, Computer Networks
-- Problem‑solving & complexity analysis
 
 ---
 
