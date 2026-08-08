@@ -10,7 +10,7 @@
 
 ## 🌟 About Me
 
-Hey! I’m **Paras**, a 2nd year **B.Tech IT** student at **Galgotias College of Engineering and Technology (GCET)**.I treat my degree like a long‑term project: small, consistent commits to my skills every day.
+Hey! I’m **Paras**, a 3rd year **B.Tech IT** student at **Galgotias College of Engineering and Technology (GCET)**.I treat my degree like a long‑term project: small, consistent commits to my skills every day.
 > 💬 **“I may not be the most experienced developer, but I’ll be the most dedicated learner.”**
 
 
