@@ -17,7 +17,7 @@ Hey! I’m **Paras**, a 3rd year **B.Tech IT** student at **Galgotias College of
 ## 🧰 Tech Toolbox
 
 ### 💻 Languages
-`C` · `C++` · `Python` · `Java` . `HTML5` · `CSS3` · `Bootstrap` · `PHP` . `MySQL`  
+`C` · `C++` · `Python` · `Java` . `HTML5` · `CSS3` . `MySQL`  
 🧱 Learning: `React` · `Node.js` · `Express`
 
 
@@ -27,17 +27,6 @@ Hey! I’m **Paras**, a 3rd year **B.Tech IT** student at **Galgotias College of
 - 📌 Building **full‑stack projects** instead of just tutorial apps  
 - 📌 Exploring how **AI can boost web apps** (automation, smart features)  
 - 📌 Becoming comfortable with **React + Node.js** for real‑world projects  
-
-
-## 🔗 Highlight Projects
-
-### 🔐 Secure Banking Web App
-> `PHP` · `MySQL` · `Bootstrap`
-
-- Implements login, accounts and basic transactions  
-- Focus on **secure backend logic** and proper database design  
-- Helped me understand full request → DB → response flow
-
 
 
 ## 🤝 Let’s Connect
