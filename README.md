@@ -17,7 +17,7 @@
 <br/><br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- 3. SOCIAL & PROFILE BADGES                                           -->
+<!-- 3. SOCIAL BADGES                                                     -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <a href="https://linkedin.com/in/paras-jain-n0t" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="https://leetcode.com/u/i-m-parasjain" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>&nbsp;
@@ -36,18 +36,32 @@
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- 4. ABOUT ME                                                          -->
+<!-- 4. ABOUT ME (IDE Code Window Format)                                 -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 ## 👨‍💻 About Me
 
-- 🎓 **Education:** B.Tech in Information Technology @ *Galgotias College of Engineering & Technology*
-- 📅 **Batch:** 2024 – 2028 | **CGPA:** 8.04
-- ☕ **Primary Language:** **Java** (OOP & Data Structures)
-- 🌐 **Currently Learning:** **MERN Stack** (MongoDB, Express.js, React, Node.js)
-- 👑 **Leadership:** **General Secretary, Fusion Society** — IT Departmental Club (300+ Members)
-- 🛡️ **Hackathons:** **SIH-2026** Internal Qualifier & SIH-2025 Participant
-- 🎯 **Career Goal:** Seeking software engineering opportunities to build impactful, scalable products
-- 📍 Greater Noida, UP, India
+```java
+// ☕ Paras.java
+public class ParasJain {
+    String role         = "Aspiring Software Engineer & Full-Stack Developer";
+    String education    = "B.Tech in Information Technology @ GCET";
+    String batch        = "2024 - 2028 (Expected)";
+    double cgpa         = 8.04;
+    String primaryLang  = "Java (OOPs & Data Structures)";
+    String[] techStack  = {"MongoDB", "Express.js", "React", "Node.js", "MySQL"};
+    String leadership   = "General Secretary, Fusion Society (300+ Members)";
+    String hackathons   = "SIH-2026 Internal Qualifier | SIH-2025 Participant";
+    String location     = "Greater Noida, UP, India 🇮🇳";
+
+    public void dailyRoutine() {
+        while (isAlive()) {
+            solveDSAProblems(); // 100+ LeetCode solved
+            buildFullStackProjects();
+            learnNewTech();
+        }
+    }
+}
+```
 
 <!-- ANIMATED DIVIDER -->
 <div align="center">
@@ -55,42 +69,18 @@
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- 5. TECH STACK & SKILLS                                                -->
+<!-- 5. CONCISE TECH STACK & TOOLS                                        -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 ## 🛠️ Tech Stack & Skills
 
 <div align="center">
 
-#### 💻 Programming Languages
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,c,cpp,python,mysql,html,css,tailwind" alt="Languages & Frontend" />
 </p>
 
-#### 🌐 Frontend & Web Development
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind" />
-</p>
-
-#### ⚙️ Backend & Databases
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-</p>
-
-#### 🔧 Tools & Platforms
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,git,github,vscode,postman" alt="Frameworks & Tools" />
 </p>
 
 </div>
@@ -135,33 +125,6 @@
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!-- 7. DSA & PROBLEM SOLVING                                              -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-## 🧠 DSA & Problem Solving
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>☕ Java-First Approach</h4>
-      <ul>
-        <li>Solving DSA problems primarily in <b>Java</b>.</li>
-        <li>Focus: Arrays, Strings, Trees, Graphs, Dynamic Programming.</li>
-        <li><b>100+ problems</b> solved on LeetCode with continuous daily practice.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🎯 Active Coding Profiles</h4>
-      <ul>
-        <li>🟠 <a href="https://leetcode.com/u/i-m-parasjain" target="_blank"><b>LeetCode Profile</b></a> — Daily challenges & problem solving</li>
-        <li>🟢 <b>GeeksforGeeks</b> — Core CS fundamentals</li>
-        <li>🔵 <b>HackerRank</b> — Java verified certification</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-<!-- ANIMATED DIVIDER -->
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider" />
-</div>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!-- 8. ACHIEVEMENTS & LEADERSHIP                                          -->
@@ -181,9 +144,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider" />
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- 9. GITHUB STATS & STREAKS                                             -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
 ## 📊 GitHub Stats & Streaks
 
 <div align="center">
